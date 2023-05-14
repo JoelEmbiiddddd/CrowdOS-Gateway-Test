@@ -22,12 +22,12 @@ public class ActivityBooth implements IActivityBooth {
 
     @Override
     public String CrowdosB(XReq req) {
-        return "hi " + ",This is a function about Post from crowdos-gateway.Congratulations!";
+        return "hi " + JSON.toJSONString(req) + ",This is a function about Post from crowdos-gateway.Congratulations!";
     }
 
     @Override
     public String CrowdosC(String str, XReq req) {
-        return "hi " + " ,This is a function about Post from crowdos-gateway.Congratulations!";
+        return "hi " + JSON.toJSONString(req) +" ,This is a function about Post from crowdos-gateway.Congratulations!";
     }
 
 }
