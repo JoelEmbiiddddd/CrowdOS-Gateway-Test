@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/api-gateway-test-provider-92fe6c0330718813851914769d091105a989f505.iml" filepath="$PROJECT_DIR$/.idea/api-gateway-test-provider-92fe6c0330718813851914769d091105a989f505.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-test-provider-92fe6c0330718813851914769d091105a989f505/api-gateway-test-provider-interfaces/api-gateway-test-provider-interfaces.iml" filepath="$PROJECT_DIR$/api-gateway-test-provider-92fe6c0330718813851914769d091105a989f505/api-gateway-test-provider-interfaces/api-gateway-test-provider-interfaces.iml" />
+    </modules>
+  </component>
+</project>
